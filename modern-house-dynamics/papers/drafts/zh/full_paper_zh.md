@@ -1,4 +1,4 @@
-《现代宫位路径学：果宫发动、续宫中介、角宫定格》
+# 《现代宫位路径学：果宫发动、续宫中介、角宫定格》
 English: Modern House Dynamics: Cadent Powers the Path, Succedent Mediates, Angular Consolidates
 
 第一章 引言（Introduction）
