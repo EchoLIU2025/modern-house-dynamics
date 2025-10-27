@@ -199,7 +199,7 @@
 
 ---
 
-## 附录 A｜图示（供 Git 版本配图）
+## 附录 A｜图示
 
 * **图1** 行运激活总图：Cadent → Succedent → Angular（含1′）；标注“Transit activates / Mediation required”。
 * **图2** 双回路：Growth vs. Attenuation（仅宫位层，无支线）。
