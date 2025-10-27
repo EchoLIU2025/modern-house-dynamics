@@ -539,7 +539,7 @@ In cross-school collaboration or teaching, it is recommended to standardize on t
 
 ● This model possesses house-system agnosticism, tool-agnostic neutrality, and media neutrality, and can be read in semantic parallel with psychological astrology, narratology, and sociology.
 ● Boundary conditions must be strictly observed: non-predictive, non-prescriptive, non-case-level, non-clinical; execution-level extensions and data-informed studies should appear as subsequent papers without altering house-level propositions.
-● Through constraints on robustness, portability, and misuse prevention, the model can be applied robustly across diverse teaching and research contexts. The next chapter (Chapter 9) will provide figures and production specifications.
+● Through constraints on robustness, portability, and misuse prevention, the model can be applied robustly across diverse teaching and research contexts. 
 
 # Chapter 9  Conclusion (From Strength to Pathway)
 
