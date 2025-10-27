@@ -1,4 +1,4 @@
-# English: Modern House Dynamics: Cadent Powers the Path, Succedent Mediates, Angular Consolidates
+# Modern House Dynamics: Cadent Powers the Path, Succedent Mediates, Angular Consolidates
 
 # Chapter 1  Introduction
 
