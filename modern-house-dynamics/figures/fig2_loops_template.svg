@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1181" height="709" viewBox="0 0 1181 709">
-  <rect x="1" y="1" width="1179" height="707" fill="white" stroke="black"/>
-  <text x="50%" y="25%" font-family="DejaVu Sans, Arial" font-size="36" text-anchor="middle">Growth Loop: Cadent → Succedent → Angular → 1′ → Cadent</text>
-  <text x="50%" y="50%" font-family="DejaVu Sans, Arial" font-size="36" text-anchor="middle">Attenuation Loop: Cadent → Succedent (idle) → Angular (shell) → weak start → Cadent</text>
-  <text x="50%" y="85%" font-family="DejaVu Sans, Arial" font-size="20" text-anchor="middle">Figure 2. Growth vs Attenuation (house-level; no fixed routes)</text>
-</svg>
