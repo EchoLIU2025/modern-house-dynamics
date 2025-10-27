@@ -1,9 +1,27 @@
 cff-version: 1.2.0
-message: "If you use this work, please cite it as below."
 title: "Modern House Dynamics: Cadent → Succedent → Angular"
+message: "If you use this work, please cite it as below."
+type: generic
 authors:
   - family-names: Liu
     given-names: Echo
-date-released: 2025-09-30
-version: 0.1.0
-license: "Proprietary (All Rights Reserved)"
+    name-particle: ""
+    orcid: ""
+abstract: >
+  A house-level, tool-agnostic framework for modern astrology: Cadent powers the path
+  (capacity/meaning), Succedent mediates (artifacts/resources/relations; open set),
+  Angular consolidates (identity/structure). Emphasizes pathway–mediation–consolidation
+  over static rank, with growth and attenuation loops.
+keywords:
+  - astrology
+  - houses
+  - cadent
+  - succedent
+  - angular
+  - mediation
+  - consolidation
+  - modern society
+license: "Other"
+repository-code: "https://github.com/<your-account>/<your-repo>"
+version: "v0.1.0"
+date-released: "2025-09-15"
