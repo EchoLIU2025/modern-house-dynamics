@@ -97,19 +97,7 @@ Intuitive expression: **“First become an artifact; then become a structure.”
 ● **Result strength ≠ reachability:** the “stability/visibility” presented at angular does not entail “automatic attainment.” Whether the result position can be reached depends on whether cadent is activated and whether succedent mediation is effective.
 ● Accordingly, we must logically distinguish **Angular strength** (result strength) from **Path reachability** (reachability of the pathway).
 
-## 2.7 Diagram & Style
-
-Main diagram in text (uniformly cited throughout):
-
-Cadent (capacity / meaning)
-→  Succedent (artifacts / resources / relations; open set)
-→  Angular (identity / structure)
-“First become an artifact; then become a structure.”
-
-● **Caption suggestion:** *Figure 1. Modern House Dynamics (house-level model; tool-agnostic).*
-● **Layout suggestion:** single color; journal page width (e.g., 100×60 mm); split labels across lines to avoid crowding; draw no fixed side branches.
-
-## 2.8 Glossary
+## 2.7 Glossary
 
 ● **capacity / meaning（能力/意义）:** the inner kinetic energy and frameworks in the cadent domain related to learning, practice, worldview, and integration.
 ● **mediation / transduction（中介/转译）:** the process that converts inner outputs into socially receivable “artifacts.”
