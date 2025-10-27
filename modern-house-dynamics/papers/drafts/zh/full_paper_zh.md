@@ -103,21 +103,7 @@
 * **结果强度 ≠ 可达性**：角宫呈现的“稳固/可见”并不蕴含“自动达成”；是否能抵达结果位，取决于**果宫是否发动**以及**续宫中介是否有效**。
 * 据此，需在逻辑上区分：**Angular strength（结果强度）**与**Path reachability（路径可达性）**。
 
-## 2.7 主图与表述规范（Diagram & Style）
-
-**主图文字版**（全文统一引用）：
-
-```
-Cadent（capacity / meaning）
-   →  Succedent（artifacts / resources / relations；open set）
-   →  Angular（identity / structure）
-“First become an artifact; then become a structure.”
-```
-
-* 图注建议：**Figure 1. Modern House Dynamics (house-level model; tool-agnostic).**
-* 版式建议：单色、期刊页宽（如 100×60mm）；标签分行避免拥挤；不绘制任何固定支线。
-
-## 2.8 术语小词典（Glossary）
+## 2.7 术语小词典（Glossary）
 
 * **capacity / meaning（能力/意义）**：果宫域中与学习、实践、世界观、整合相关的内在动能与框架。
 * **mediation / transduction（中介/转译）**：将内在产出转换为社会可承接“产物”的过程。
@@ -126,7 +112,7 @@ Cadent（capacity / meaning）
 * **tool-agnostic（工具中立）**：不预设特定技法或媒介的有效性偏好。
 * **isomorphic translatability（等距可译）**：在不同宫制与流派间保持结构对应与可读性。
 
-## 2.9 本章小结（Chapter Summary）
+## 2.8 本章小结（Chapter Summary）
 
 我们以**三分集合**与**工作定义**奠定全论文法：果宫提供起点与循环的**能力/意义**，续宫作为**开放的中介层**将其转写为**产物/资源/关系**，角宫则完成**呈现与定格**。由此，后续章节将据此框架讨论**功能顺序（Cadent → Succedent → Angular）**、**循环分化（正向/负向）**与**现代人格改造的宫位层定位**。
 
@@ -704,7 +690,7 @@ Cadent（capacity / meaning）
 
 * 本模型具备**宫制无关、技术中立、媒介中立**的适配性，可与**心理占星、叙事学、社会学**进行**语义平行对读**。
 * 应严格遵守**边界条件**：**非预测、非处方、非个案、非诊断**；执行层扩展与数据化研究应作为**后续论文**，不改变宫位层命题。
-* 通过**鲁棒性、可迁移**与**误用预防**的约束，模型得以在多种教学与研究语境中**稳健应用**。下一章（第九章）将给出图表与制作规范，以便在论文与仓库（Git）中统一呈现。
+* 通过**鲁棒性、可迁移**与**误用预防**的约束，模型得以在多种教学与研究语境中**稳健应用**。
 
 # 第九章　结语（从强弱到路径）
 
