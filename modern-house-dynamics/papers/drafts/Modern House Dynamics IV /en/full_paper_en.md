@@ -1,6 +1,4 @@
-*The Mercurial System: Reconfiguring House Dynamics from Inner Integration to the Language Society**
-
----
+# The Mercurial System: Reconfiguring House Dynamics from Inner Integration to the Language Society
 
 ### Abstract
 
